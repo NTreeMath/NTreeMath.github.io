@@ -28,10 +28,7 @@ twitter_username: NaturalTreeMath
 github_username:  NTreeMath
 
 # Build settings
-theme: jekyll-theme-modernist
-plugins:
-  - jekyll-remote-theme # add this line to the plugins list if you already have one
-  - jekyll-feed
+theme: minima
 
 # Exclude from processing.
 # The following items will not be processed, by default.
