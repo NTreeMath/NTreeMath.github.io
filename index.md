@@ -4,7 +4,7 @@
 
 N'Treeといいます。4月から数学系の大学院M1になります。
 
-- Twitter [@NaturalTreeMath](https://twitter.com/NaturalTreeMath)
+- Twitter: [@NaturalTreeMath](https://twitter.com/NaturalTreeMath)
 - [Mathlog](https://mathlog.info/users/2425/articles)
 
 ### 勉強してきたこと
@@ -15,6 +15,10 @@ N'Treeといいます。4月から数学系の大学院M1になります。
 ### これから勉強したいこと
 
 - 表現論
+
+## 本
+
+読んだ本、読みたい本などを[こちら](books.md)にまとめました。
 
 ## PDF一覧
 
