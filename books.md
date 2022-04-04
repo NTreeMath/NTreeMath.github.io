@@ -22,3 +22,4 @@
 ## 気になる本
 
 - [Jin Hong, Seok-Jin Kang, Introduction to Quantum Groups and Crystal Bases, American Mathematical Society, 2002.](https://bookstore.ams.org/gsm-42)
+- [Daniel Bump, Anne Schilling, Crystal Bases: Representations And Combinatorics, World Scientific, 2017.](https://www.amazon.co.jp/dp/B01N6XLIOL/)
