@@ -1,8 +1,8 @@
-このサイトはN'Treeによる数学PDF置き場です。
+このサイトは N'Tree による数学PDF置き場です。
 
 ## 自己紹介
 
-N'Treeといいます。4月から数学系の大学院M1になります。
+N'Tree といいます。数学系の大学院 M1 です。
 
 - Twitter: [@NaturalTreeMath](https://twitter.com/NaturalTreeMath)
 - [Mathlog](https://mathlog.info/users/2425/articles)
