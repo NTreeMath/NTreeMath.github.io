@@ -20,8 +20,10 @@
 - [Amritanshu Prasad, Representation Theory A Combinatorial Viewpoint, Cambridge University Press, 2015.](https://www.cambridge.org/core/books/representation-theory/6ED4685D532DDE90E37B6F08AB7925F9)
   - 3 章まで読んだ。
 - [Jin Hong, Seok-Jin Kang, Introduction to Quantum Groups and Crystal Bases, American Mathematical Society, 2002.](https://bookstore.ams.org/gsm-42)
-  - 1 章を読んだ。
+  - 1, 2 章を読んだ。
   
 ## 気になる本
 
 - [Daniel Bump, Anne Schilling, Crystal Bases: Representations And Combinatorics, World Scientific, 2017.](https://www.amazon.co.jp/dp/B01N6XLIOL/)
+
+[戻る](./)
