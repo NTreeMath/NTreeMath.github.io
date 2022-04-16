@@ -23,3 +23,4 @@ N'Tree といいます。数学系の大学院 M1 です。
 ## PDF 一覧
 
 - [環の局所化](pdf/localization.pdf)
+- [指数pの部分群](pdf/subgroup_of_index_p.pdf)
