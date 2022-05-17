@@ -1,4 +1,6 @@
-このサイトは N'Tree による数学 PDF 置き場です。
+# お知らせ
+
+[Math Forest](https://math-forest.vercel.app/) に移転しました。このサイトは更新されません。
 
 ## 自己紹介
 
